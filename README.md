@@ -21,7 +21,7 @@ A robust Python script that demonstrates file operations (read/write) with compr
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/file-handler.git
+git clone https://github.com/xyzoptooo/python-files.git
 cd file-handler
 
 # Create virtual environment (recommended)
